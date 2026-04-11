@@ -1,0 +1,23 @@
+{
+  "supabase": {
+    "url": "YOUR_SUPABASE_URL",
+    "anonKey": "YOUR_ANON_KEY"
+  },
+  "bring": {
+    "email": "YOUR_EMAIL",
+    "password": "YOUR_PASSWORD",
+    "listUuid": "YOUR_LIST_UUID"
+  },
+  "calendar": {
+    "icsUrls": {
+      "alex": "https://calendar.google.com/calendar/ical/...",
+      "steffi": "https://calendar.google.com/calendar/ical/...",
+      "alexSteffi": "https://calendar.google.com/calendar/ical/..."
+    }
+  },
+  "colors": {
+    "alex": "#3B82F6",
+    "steffi": "#EC4899",
+    "alexSteffi": "#8B5CF6"
+  }
+}
